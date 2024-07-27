@@ -44,4 +44,5 @@ def search_book(source):
 
     spinner.stop()
     _, idx = pick(titles, "Search results:")
-    return urls[idx]
+    url = urls[idx].rstrip('/')
+    return url
