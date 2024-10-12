@@ -28,7 +28,7 @@ python main.py -S freeaudiobooks
 ```
 
 ### Features
-1. **Search book**: Search for audiobooks on the selected source.
+1. **Search book**: Search and find audiobook from the selected source. (Default Tokybook.com )
 2. **Download from URL**: Directly download an audiobook using its URL.
 
 ## Search Functionality
